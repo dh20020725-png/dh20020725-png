@@ -80,7 +80,7 @@ MongoDB • PostgreSQL • MySQL
 
 ### 📌 Company Logo
 <div align="center">
-  <img src="company.png" width="180" />
+  <img src="logo2.png" width="380" />
 </div>
 
 <br/>
