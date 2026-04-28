@@ -27,11 +27,13 @@
 
 > We build intelligent systems that solve real-world problems using AI, scalable architecture, and modern engineering.
 
-21st DreamDev is a **fully remote global IT company** founded by **Daniel Harris**, bringing together 50+ developers, engineers, and AI specialists from around the world.
+21st DreamDev was founded in **August 2025** with a small team of **6 engineers**, driven by a shared vision of building meaningful, AI-powered digital products.
+
+Since then, we have rapidly grown into a **global remote company of 50+ developers**, organized into multiple specialized engineering teams working across AI, full-stack, and blockchain domains.
+
+Today, we have successfully delivered **20+ large-scale projects**, including SaaS platforms, AI automation systems, and blockchain-based applications used across different industries.
 
 Our mission is simple: **make AI-powered technology useful, practical, and accessible for everyone.**
-
----
 
 ## ✦ What We Do
 
@@ -81,12 +83,18 @@ MongoDB • PostgreSQL • MySQL
   <img src="YOUR_COMPANY_LOGO_URL_HERE" width="180" />
 </div>
 
+<br/>
+
 ### 👥 Team Showcase
 <div align="center">
   <img src="YOUR_TEAM_PHOTO_URL_HERE" width="80%" />
+  <br/>
+  <sub>
+    This team photo is a curated composition generated from all members' individual photos by Senior Developer <b>Jin Zhen Xing</b>.
+    <br/>
+    21st DreamDev is a fully remote company with no physical office building — our team operates globally across different time zones.
+  </sub>
 </div>
-
----
 
 ## ✦ About Founder
 
